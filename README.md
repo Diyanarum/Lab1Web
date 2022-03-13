@@ -175,7 +175,6 @@ Untuk dapat menambahkan link pada sebuah web html maka kita perlu menggunakan se
 
 [menambahkan_gambar](img/RESULT%20NAVIGASI%20LINK.png)
 
-
 Dan untuk dapat menambahkan suatu link seperti gambar diatas dibutuhkan sebuah codingan seperti dibawah ini.
 
 ```html
