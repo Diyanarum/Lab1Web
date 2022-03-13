@@ -222,3 +222,6 @@ Dan untuk dapat menambahkan suatu link seperti gambar diatas dibutuhkan sebuah c
         
 </body>
 </html>
+```
+
+# THANK'S FOR YOUR ATTENTION GUYS! SEE YOU!!
