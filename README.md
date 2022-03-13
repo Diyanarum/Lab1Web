@@ -173,7 +173,7 @@ Dan untuk dapat menambahkan suatu gambar seperti gambar diatas dibutuhkan sebuah
 
 Untuk dapat menambahkan link pada sebuah web html maka kita perlu menggunakan sebuah tag navigasi untuk membawa kita pada sebuah web tertentu yang mana itu bisa untuk link internal ataupun eksternal. Berikut tampilan dari link pada sebuah web html.
 
-[menambahkan_gambar](img/RESULT%20NAVIGASI%20LINK.png)
+![menambahkan_gambar](img/RESULT%20NAVIGASI%20LINK.png)
 
 Dan untuk dapat menambahkan suatu link seperti gambar diatas dibutuhkan sebuah codingan seperti dibawah ini.
 
