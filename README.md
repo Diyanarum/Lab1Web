@@ -126,7 +126,7 @@ Dan untuk dapat membuat sebuah format text seperti gambar diatas dibutuhkan sebu
 
 Untuk memasukan atau menambahkan suatu gambar pada HTML maka kalian bisa menggunakan sebuah tag (img) yang kemudian menyimpan file source pada folder yang sudah dibuat sebelumnya. Berikut hasil dari tag tersebut.
 
-[menambahkan_gambar](img/RESULT%20INPUT%20GAMBAR.png)
+![menambahkan_gambar](img/RESULT%20INPUT%20GAMBAR.png)
 
 Dan untuk dapat menambahkan suatu gambar seperti gambar diatas dibutuhkan sebuah codingan seperti dibawah ini.
 
