@@ -168,5 +168,57 @@ Dan untuk dapat menambahkan suatu gambar seperti gambar diatas dibutuhkan sebuah
 </html>
 ```
 
+## CARA MENAMBAHKAN LINK
+
+Untuk dapat menambahkan link pada sebuah web html maka kita perlu menggunakan sebuah tag navigasi untuk membawa kita pada sebuah web tertentu yang mana itu bisa untuk link internal ataupun eksternal. Berikut tampilan dari link pada sebuah web html.
+
+[menambahkan_gambar](img/RESULT%20NAVIGASI%20LINK.png)
 
 
+Dan untuk dapat menambahkan suatu link seperti gambar diatas dibutuhkan sebuah codingan seperti dibawah ini.
+
+```html
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>tag dasar html</title>
+</head>
+
+<body>
+    <!-- MENAMBAHKAN NAVIGASI -->
+    <nav>
+        <a href="tag_dasar.html">Dasar HTML</a>
+        <a href="halaman2.html">halaman2</a>
+        <a href="https://www.instagram.com/diyanarum_/">Halaman web eksternal google</a>
+    </nav>
+    <hr>
+
+    <!-- Judul Paragraf 1 -->
+    <h1>PEMBELAJARAN DASAR HTML</h1>
+
+    <!-- PARAGRAF 1 -->
+    <p align="center"> <span style="background-color: rgb(247, 181, 203);"> Selamat datang di web program ini. Saya
+            Diyan Arum Maheswari, salah satu mahasiswi jurusan <b>Teknik Informatika - UNIVERSITAS PELITA BANGSA</b>
+    </p>
+
+    <h1>BENTUK PARAGRAF PADA HTML</h1>
+
+    <!-- PARAGRAF 2 -->
+    <P align="left"> <i>(Hypertest Markup Language)</i> merupakan bahasa markup yang digunakan untuk membuat
+        sebuah halaman web dan menampilkan berbagai informasi di dalam sebuah browser. HTML itu sendiri
+        <u>berupa kode-kode tag yang menginstruksikan browser untuk menghasilkan tampilan sesuai
+            dengan yang diinginkan</u>. HTML saat ini merupakan standar Internet yang didefinisikan dan
+        dikendalikan penggunaannya oleh World Wide Web Consortium (W3C).</P>
+
+        <!-- SUB JUDUL GAMBAR -->
+        <h1>MENAMBAHKAN GAMBAR</h1>
+        <!-- menambahkan gambar pada dokumen -->
+        <img src="img/Logo Universitas Pelita Bangsa.png" alt="upb" title="LOGO UNIVERSITAS PELITA BANGSA" width="300px"> 
+        
+</body>
+</html>
