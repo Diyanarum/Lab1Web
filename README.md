@@ -224,4 +224,4 @@ Dan untuk dapat menambahkan suatu link seperti gambar diatas dibutuhkan sebuah c
 </html>
 ```
 
-# THANK'S FOR YOUR ATTENTION GUYS! SEE YOU!!
+# <P align="center"> THANK'S FOR YOUR ATTENTION GUYS! SEE YOU!!
