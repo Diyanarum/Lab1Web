@@ -1,8 +1,8 @@
 # PEMOGRAMAAN WEB
 
 Diyan Arum Maheswari (312010133)
-______________________________________________
 Teknik Informatika - UNIVERSITAS PELITA BANGSA
+______________________________________________
 
 ## CARA MEMBUAT PARAGRAF
 
